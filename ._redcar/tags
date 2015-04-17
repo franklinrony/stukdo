@@ -1,0 +1,11 @@
+1428993730
+Application	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/config/application.rb	  class Application 
+ApplicationController	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/app/controllers/pages_controller.rb	class PagesController 
+PagesControllerTest	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/test/controllers/pages_controller_test.rb	class PagesControllerTest 
+PagesHelper	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/app/helpers/pages_helper.rb	module PagesHelper
+PagesHelperTest	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/test/helpers/pages_helper_test.rb	class PagesHelperTest 
+Sutkdo	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/config/application.rb	module Sutkdo
+TestCase	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/test/test_helper.rb	class ActiveSupport::TestCase
+home	C:/Bitnami/wampstack-5.4.33-0/apache2/htdocs/stukio/sutkdo/app/controllers/pages_controller.rb	  def home
